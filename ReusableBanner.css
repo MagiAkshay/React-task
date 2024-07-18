@@ -1,0 +1,46 @@
+/* src/ReusableBanner.css */
+.reusable-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: end;
+    height: 200px;
+    color: rgba(12, 74, 209, 0.5);
+    background-size: cover;
+    background-position: center;
+    /* position: relative; */
+    border-radius: 20px;
+  }
+  
+  .banner-content {
+    /* background-color: rgba(242, 244, 247, 0.5); */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .reusable-banner h1 {
+    margin: 0;
+    font-size: 2.5em;
+  }
+  
+  .reusable-banner h2 {
+    margin: 10px 0;
+    font-size: 1.5em;
+  }
+  
+  .reusable-banner button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: white;
+    background-color: #ff4081;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .reusable-banner button:hover {
+    background-color: #e91e63;
+  }
+  .imagee{
+    padding: 20px;
+  }

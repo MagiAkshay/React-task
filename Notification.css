@@ -1,0 +1,26 @@
+/* src/components/Notification.css */
+.notification {
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .information {
+    background-color: blue;
+  }
+  
+  .success {
+    background-color: green;
+  }
+  
+  .warning {
+    background-color: yellow;
+    color: black;
+  }
+  
+  .error {
+    background-color: red;
+  }
+  
